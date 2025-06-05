@@ -1,1 +1,1 @@
-# 100-days-of-code-python
+All the projects from 100-days-of-code-python
